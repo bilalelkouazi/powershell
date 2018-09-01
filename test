@@ -1,2 +1,0 @@
-$groet
-Write-Host "$groet"
